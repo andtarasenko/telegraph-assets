@@ -38,11 +38,17 @@
       "commit_sha": "fb094686aea2fb21cf72dbe155961cae0b7d88cc"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/shelf.png",
+      "sha": "484178ef7a5dd93bf9094c476a88d700258436f3",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@1d736c42bfdd2a210816eee790982951a1ac63ea/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/shelf.png",
+      "commit_sha": "1d736c42bfdd2a210816eee790982951a1ac63ea"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer.png",
       "sha": "fefed43c6f4299142427fc96bd4d5b315f1bbbaa",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@1623382792db90745877cc36d0377bbfd171b7ae/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer.png",
       "commit_sha": "1623382792db90745877cc36d0377bbfd171b7ae"
     }
   ],
-  "updated_at": "2026-03-21T15:01:28Z"
+  "updated_at": "2026-03-21T15:01:32Z"
 }
