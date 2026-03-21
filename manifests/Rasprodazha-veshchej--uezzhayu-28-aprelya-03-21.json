@@ -86,6 +86,12 @@
       "commit_sha": "1623382792db90745877cc36d0377bbfd171b7ae"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer_battery.jpeg",
+      "sha": "d634cb2143b33560f78119f9c0e20aa97c63c8d1",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@0cee213cd91a77fcf7edb9493807788416ae68c5/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer_battery.jpeg",
+      "commit_sha": "0cee213cd91a77fcf7edb9493807788416ae68c5"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer_detail.jpeg",
       "sha": "84a73580a08e4fb7456d1cf5139d023e0a8a1e8a",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@16053f561dc1336880451f3f47d4f797fad307f6/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/trimmer_detail.jpeg",
@@ -104,5 +110,5 @@
       "commit_sha": "3bb8fc6a773fa640dafe72148f9f3b2e099b23e9"
     }
   ],
-  "updated_at": "2026-03-21T15:03:01Z"
+  "updated_at": "2026-03-21T15:03:06Z"
 }
