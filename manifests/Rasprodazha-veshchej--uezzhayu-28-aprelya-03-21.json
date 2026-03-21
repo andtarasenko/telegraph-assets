@@ -6,7 +6,13 @@
       "sha": "7b14bcfa21bfd46773e43cbf1336a2ccb9047df7",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@caa8673fd69026fdd14b8b2b756ad0dd2a3da795/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/TV.png",
       "commit_sha": "caa8673fd69026fdd14b8b2b756ad0dd2a3da795"
+    },
+    {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/Vacuum.png",
+      "sha": "dd677559f1080328723e83aeb0db5b5929a1646e",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@ea9272c20e6f08ff7654ca1114128ba2997780bc/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/Vacuum.png",
+      "commit_sha": "ea9272c20e6f08ff7654ca1114128ba2997780bc"
     }
   ],
-  "updated_at": "2026-03-21T15:01:12Z"
+  "updated_at": "2026-03-21T15:01:15Z"
 }
