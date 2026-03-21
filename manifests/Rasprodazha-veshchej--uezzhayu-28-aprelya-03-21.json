@@ -162,7 +162,13 @@
       "sha": "ff233410c6125bac48620b89e1c08d04aec66404",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@3bb8fc6a773fa640dafe72148f9f3b2e099b23e9/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/whiteboard.png",
       "commit_sha": "3bb8fc6a773fa640dafe72148f9f3b2e099b23e9"
+    },
+    {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/whiteboard_front.jpeg",
+      "sha": "c70db625c3b6f1134301a5aba4a2c755d1f25eec",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@907bc97282e0d8cf019a60638e68de379b810dcc/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/whiteboard_front.jpeg",
+      "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-03-21T15:03:40Z"
+  "updated_at": "2026-03-21T15:03:44Z"
 }
