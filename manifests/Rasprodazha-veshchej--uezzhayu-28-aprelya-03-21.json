@@ -98,6 +98,12 @@
       "commit_sha": "0649f2b385850970fcbf945c54799028e38d6fab"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/laptop-table_overall.jpeg",
+      "sha": "e99fccba7a623aa38e6826836059b37eefffc72f",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@bfae5a9eec516b336969dad198ad6e6443cf6816/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/laptop-table_overall.jpeg",
+      "commit_sha": "bfae5a9eec516b336969dad198ad6e6443cf6816"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/markus.png",
       "sha": "d541e62aa56a36489c219365ec45f60ff7652f69",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@fb094686aea2fb21cf72dbe155961cae0b7d88cc/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/markus.png",
@@ -176,5 +182,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-03-21T15:03:47Z"
+  "updated_at": "2026-03-21T15:03:51Z"
 }
