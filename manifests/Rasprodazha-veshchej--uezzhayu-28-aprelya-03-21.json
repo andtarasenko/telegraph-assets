@@ -44,6 +44,12 @@
       "commit_sha": "f6d3e93af10ddf3ad3234ab30249a149a735b35d"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/birkenstock_zermatt_insole.jpeg",
+      "sha": "40ae6a1dbdf4badb2eb7653d62a6b2ae98cb4f16",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@c80d9b998875351efb998b7f73366af9f2dcabe9/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/birkenstock_zermatt_insole.jpeg",
+      "commit_sha": "c80d9b998875351efb998b7f73366af9f2dcabe9"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/desc.png",
       "sha": "800a3febbb9198c3fd57d844e661a6bf037958a4",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@95f569debc313519e85270537ef322d2ac4ce4e8/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/desc.png",
@@ -230,5 +236,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-04-03T18:51:57Z"
+  "updated_at": "2026-04-03T18:52:00Z"
 }
