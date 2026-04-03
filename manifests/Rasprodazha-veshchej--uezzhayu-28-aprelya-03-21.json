@@ -98,6 +98,12 @@
       "commit_sha": "4d7e30d066e8ed5c6b1ed62df38e52f06e168525"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/dumbbells_open.jpeg",
+      "sha": "69bd9ef6cd3463896a2f85a2206a81a39fbc4a8d",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@120cad4d56a33cf1a637749346fe33f36cfbe69b/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/dumbbells_open.jpeg",
+      "commit_sha": "120cad4d56a33cf1a637749346fe33f36cfbe69b"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/floor-lamp.png",
       "sha": "70ace2c80e4f47c505c3927a9aaa1af17891f3da",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@302388fbad67b60720e43b611c732f0852ce26f8/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/floor-lamp.png",
@@ -248,5 +254,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-04-03T18:52:07Z"
+  "updated_at": "2026-04-03T18:52:10Z"
 }
