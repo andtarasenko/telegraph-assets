@@ -26,6 +26,12 @@
       "commit_sha": "ea9272c20e6f08ff7654ca1114128ba2997780bc"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/birkenstock_gizeh_detail.jpeg",
+      "sha": "a0761af1ee3339b89f22577293782ae34de5f7af",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@49eac9f7da2aa45f95bc925988fa4b0f23dfe191/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/birkenstock_gizeh_detail.jpeg",
+      "commit_sha": "49eac9f7da2aa45f95bc925988fa4b0f23dfe191"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/desc.png",
       "sha": "800a3febbb9198c3fd57d844e661a6bf037958a4",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@95f569debc313519e85270537ef322d2ac4ce4e8/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/desc.png",
@@ -212,5 +218,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-03-21T15:04:10Z"
+  "updated_at": "2026-04-03T18:51:50Z"
 }
