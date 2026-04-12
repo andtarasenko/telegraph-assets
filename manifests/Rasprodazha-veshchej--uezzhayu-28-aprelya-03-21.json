@@ -212,6 +212,12 @@
       "commit_sha": "29c22244ea5017f38c7a62b8cbc01193283997d1"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/img_3866.jpeg",
+      "sha": "46263d5a39e5c116fced41fd83526a7f13b2771b",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@0b3fa9923996b32778434d1b9cc744f458872480/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/img_3866.jpeg",
+      "commit_sha": "0b3fa9923996b32778434d1b9cc744f458872480"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/inkee_accessories.jpeg",
       "sha": "3c55bd4615e3bd5399f77fe2412caf1db590d5fa",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@39eada87019f716cb3a2aac5fc10fc904a143417/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/inkee_accessories.jpeg",
@@ -362,5 +368,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-04-03T20:02:14Z"
+  "updated_at": "2026-04-12T20:08:37Z"
 }
