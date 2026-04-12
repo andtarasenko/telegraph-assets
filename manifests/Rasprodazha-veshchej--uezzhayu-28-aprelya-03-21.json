@@ -314,6 +314,12 @@
       "commit_sha": "95cd2561787eca3a3e3b470f2f8373a98ce32e7a"
     },
     {
+      "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/no_fusion_0412_004.jpeg",
+      "sha": "a0ea37302dbd3baf346df18f1651ad7f4de53372",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@af4f90ecb95b0e1c65c041173c98a10c848eb3fd/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/no_fusion_0412_004.jpeg",
+      "commit_sha": "af4f90ecb95b0e1c65c041173c98a10c848eb3fd"
+    },
+    {
       "path": "pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/rug.png",
       "sha": "6908a8d52736ff5d0f92b5c6a6b9fbe0267134fb",
       "cdn_url": "https://cdn.jsdelivr.net/gh/andtarasenko/telegraph-assets@e9146ce0a57e6599162f9d00c9145381e673a24e/pages/Rasprodazha-veshchej--uezzhayu-28-aprelya-03-21/rug.png",
@@ -386,5 +392,5 @@
       "commit_sha": "907bc97282e0d8cf019a60638e68de379b810dcc"
     }
   ],
-  "updated_at": "2026-04-12T20:08:59Z"
+  "updated_at": "2026-04-12T20:09:07Z"
 }
